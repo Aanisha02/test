@@ -4,6 +4,6 @@
 
 
 <!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
+<h2 id="credits"> Credits</h2>
 
 Japnit  Jessica   Chioma   Aanisha
