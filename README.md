@@ -81,7 +81,7 @@
 
 <p align="center"> 
 <p>ENTER IMAGE EXAMPLE BELOW.</p>
-<img src="gif/DFS.gif" alt="Animated gif DFS Algorithm" height="282px" width="637px">
+<img src="gif/Tie.jpg" alt="Animated gif DFS Algorithm" height="282px" width="637px">
 <!--height="382px" width="737px"-->
 </p>
 
