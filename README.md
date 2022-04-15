@@ -60,7 +60,7 @@
 </p>
 
 <p align="center"> 
-<img src="gif/BFS.gif" alt="Animated gif BFS Algorithm" height="282px" width="637">
+<img src="tie.jpg" alt="Animated gif BFS Algorithm" height="282px" width="637">
 </p>
 
 <!-- SCENARIO2 -->
