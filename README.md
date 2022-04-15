@@ -59,6 +59,10 @@
 <!--height="382px" width="737px"-->
 </p>
 
+<p align="center"> 
+<img src="gif/BFS.gif" alt="Animated gif BFS Algorithm" height="282px" width="637">
+</p>
+
 <!-- SCENARIO2 -->
 <h2 id="scenario2"> Scenario 2: Opponent Wins </h2>
 
