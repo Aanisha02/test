@@ -14,6 +14,7 @@
     <li><a href="#scenario1"> ➤ Scenario 1: Main Player Wins </a></li>
     <li><a href="#scenario2"> ➤ Scenario 2: Opponent Wins </a></li>
     <li><a href="#scenario3"> ➤ Scenario 3: BothPlayers Form a Tie </a></li>
+    <li><a href="#acknowledgements"> ➤ Acknowledgements </a></li>
     <li><a href="#references"> ➤ References</a></li>
     <li><a href="#credits"> ➤ Credits</a></li>
   </ol>
@@ -80,6 +81,12 @@
 <!--height="382px" width="737px"-->
 </p>
 
+<!-- Acknowledgements -->
+<h2 id="acknowledgements"> Acknowledgements</h2>
+This project was submitted as the final course project for CSCI 2020U “Software Systems and Integration” during Winter 2022. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.
+<p align="justify"> 
+
+</p>
 
 
 <!-- CREDITS -->
